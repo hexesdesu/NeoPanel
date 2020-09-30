@@ -1,2 +1,3 @@
 # NeoPanel
-A w2812b based project
+A w2812b 35x35 based project
+
